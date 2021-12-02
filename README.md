@@ -1,6 +1,1 @@
-# DeeplyKnowComputerSystem
-# DeeplyKnowComputerSystem
-# DeeplyKnowComputerSystem
-# DeeplyKnowComputerSystem
-# DeeplyKnowComputerSystem
-# DeeplyKnowComputerSystem
+# CSAPP book code
